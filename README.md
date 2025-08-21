@@ -1,54 +1,30 @@
-# Wreckdown Kingdom (Android APK) — 2D Platformer 🎮
+# Wreckdown Kingdom — 2D Platformer 🎮
 
-Run, jump, dodge enemies, and reach the end of each level — a classic side-scrolling platformer built as my first game project.  
-All visuals are hand-crafted; audio is original or remixed.
+Run, jump, and dodge enemies to reach the goal. My first game—hand-crafted art, original/remixed audio.
 
-**📥 Download (APK):** see the [Releases](../../releases) page  
-**📌 Status:** First game project — archived demo (**debug build**)  
-**🎯 Audience:** 12+
+**▶ Web demo:** https://axeltbone.github.io/wreckdown-kingdom-apk/  
+**📥 Android APK:** see [Releases](../../releases)  
+**🔖 Build:** debug • **No ads/analytics** • **Offline**
 
 ---
 
 ## ✨ Features
-- 🕹️ Side-scrolling platforming (single-player)
-- 🗺️ 3 short levels + instructions & game-over screens
-- 👾 Enemies, hazards, score, simple checkpoints
-- 🎨 Hand-made art • 🎧 original/remixed SFX & music
-- 📶 Offline play (no network required)
-
----
+- Side-scrolling single-player
+- 3 short levels, hazards, score
+- Handmade visuals & SFX
 
 ## 📋 Requirements
-- 📱 Android 8.0 (Oreo) or newer recommended  
-- 💾 ~100 MB free storage (varies)  
-- 🔐 Permissions: **none** beyond local saves (no network)
+- Android 8.0+ • ~100 MB free • No special permissions
 
----
+## 🤖 Install (Android, debug)
+1) Download APK from **Releases**  
+2) Open the file on your phone → allow “Install unknown apps” if asked  
+3) Tap **Install**
 
-## 🤖 Download & Install (Android, **debug build**)
-
-1. 📥 Download the APK from **Releases** on this page.  
-2. 📂 Open the APK from your download notification or Files app.  
-3. ⚙️ If prompted, allow installs from this source  
-   *(Settings → Security → **Install unknown apps**).*  
-4. ✅ Tap **Install**.
-
-> ℹ️ This is a **debug build** for portfolio/demo use. **No analytics, no ads, no network access.**
-
-### 🧰 Troubleshooting
-- ❌ **“App not installed”** → Uninstall any previous copy first  
-  (debug builds can’t update a differently-signed install).  
-- 🛡️ **Play Protect warning** → *More details* → *Install anyway*  
-  (expected for non-Play-Store APKs).  
-- 📱 **Older Android** → Enable “Install unknown apps” for your browser/Files app.
+> If you see “App not installed”, uninstall any older copy first (debug builds can’t update different signatures).
 
 ## 🔒 Privacy
-No analytics. No ads. No network requests.  
-Save data stays on your device and is removed on uninstall.
+No network, no tracking. Saves stay on your device.
 
----
-
-## ✍️ Credits & Licensing
-- 🖌️ Art© **Axel Tabone**.  
-- Some audio elements are remixed from community sources.  
-  If you recognize your work and want attribution added or a file removed, please open an issue — I’ll credit or remove promptly.
+## ✍️ Credits
+Art © Axel Tabone. Some audio is remixed from community sources—open an issue for credit/update/removal.
