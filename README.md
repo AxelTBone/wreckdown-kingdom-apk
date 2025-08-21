@@ -2,7 +2,7 @@
 
 Run, jump, and dodge enemies to reach the goal. My first game—hand-crafted art, original/remixed audio.
 
-**▶ Web demo:** https://axeltbone.github.io/wreckdown-kingdom-apk/  
+**▶ Web demo:** https://axeltbone.github.io/wreckdown-kingdom/  
 **📥 Android APK:** see [Releases](../../releases)  
 **🔖 Build:** debug • **No ads/analytics** • **Offline**
 
